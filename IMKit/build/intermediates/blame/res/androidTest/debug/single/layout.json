@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_fr_conversation_member_list.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_fr_conversation_member_list.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_fr_public_service_inf.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_fr_public_service_inf.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_fr_photo.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_fr_photo.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_fr_public_service_sub_list.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_fr_public_service_sub_list.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_rich_content_message.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_rich_content_message.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_public_service_rich_content_message.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_public_service_rich_content_message.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_wi_txt_provider.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_wi_txt_provider.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_public_service_input_menu.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_public_service_input_menu.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_wi_notice.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_wi_notice.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_group_conversation.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_group_conversation.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_wi_notification_loading.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_wi_notification_loading.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_public_service_multi_rich_content_message.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_public_service_multi_rich_content_message.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_base_conversation.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_base_conversation.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_fr_messageinput.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_fr_messageinput.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_wi_vo_provider.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_wi_vo_provider.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_voice_message.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_voice_message.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_activity.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_activity.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_preview_fragment.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_preview_fragment.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_fr_public_service_search.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_fr_public_service_search.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_wi_ext_pager.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_wi_ext_pager.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_fr_dialog_alter.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_fr_dialog_alter.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_public_service_input_menus.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_public_service_input_menus.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_discussion_conversation.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_discussion_conversation.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_ac_albums.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_ac_albums.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_information_notification_message.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_information_notification_message.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_cs_alert_warning.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_cs_alert_warning.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_image_message.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_image_message.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_fr_test.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_fr_test.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_wi_emoji_txt.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_wi_emoji_txt.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_progress.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_progress.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_wi_block_popup.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_wi_block_popup.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_fr_photo2.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_fr_photo2.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_fr_messagelist.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_fr_messagelist.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_ac_webview.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_ac_webview.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_albums.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_albums.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_ac_selected_pictrue.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_ac_selected_pictrue.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_app_service_conversation.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_app_service_conversation.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_public_service_message.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_public_service_message.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_conversation_member.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_conversation_member.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_discussion_notification_message.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_discussion_notification_message.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_public_service_conversation.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_public_service_conversation.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_ui_voice_cover.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_ui_voice_cover.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_ac_camera.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_ac_camera.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_location_message.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_location_message.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_wi_vo_popup.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_wi_vo_popup.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_fr_conversationlist.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_fr_conversationlist.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_wi_block.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_wi_block.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_wi_plugins.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_wi_plugins.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_wi_text_btn.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_wi_text_btn.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_fr_conversation.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_fr_conversation.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_system_conversation.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_system_conversation.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_public_service_search.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_public_service_search.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_cs_alert_robot_evaluation.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_cs_alert_robot_evaluation.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_public_service_input_menu_item.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_public_service_input_menu_item.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_wi_emoji_grid.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_wi_emoji_grid.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_ac_preview.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_ac_preview.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_message.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_message.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_text_message.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_text_message.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_fragment_base_setting.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_fragment_base_setting.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_wi_input.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_wi_input.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_conversation.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_conversation.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_item_public_service_list.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_item_public_service_list.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/res/merged/androidTest/debug/layout/rc_cs_alert_human_evaluation.xml",
+        "source": "/root/AndroidStudioProjects/MyApplication/IMKit/build/intermediates/bundles/debug/res/layout/rc_cs_alert_human_evaluation.xml"
+    }
+]
