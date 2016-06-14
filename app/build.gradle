@@ -8,7 +8,7 @@ model {
         defaultConfig.with {
             applicationId = "com.jin.android.myapplication"
             minSdkVersion.apiLevel  = 15
-            targetSdkVersion.apiLevel = 19
+            targetSdkVersion.apiLevel = 23
             versionCode = 1
             versionName = "1.0"
 
@@ -23,15 +23,17 @@ model {
         }
     }
 
-    
+
     android.ndk {
-        moduleName = "NdkSample"
-        cppFlags.add("-std=c++11")
+        moduleName = "what"
+        ldLibs.add("android")
+
+        /*cppFlags.add("-std=c++11")
         cppFlags.add("-fexceptions")
         cppFlags.add("-I${file("src/main/jni//include")}".toString())
-        ldLibs.add("android")
+
         ldLibs.add("log")
-        stl = "gnustl_shared"
+        stl = "gnustl_shared"*/
     }
 
     android.productFlavors {
