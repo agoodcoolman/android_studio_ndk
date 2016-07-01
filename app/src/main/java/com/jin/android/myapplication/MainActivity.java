@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
 				// 测试冲突的数据在这里.哈哈哈
 
                 // 我知道这样不好.也知道你的爱只能那么少.
+                //任性
             }
         });
     }
