@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
                 // 我知道这样不好.也知道你的爱只能那么少.
 				
 				// 重新测试一次冲突吧.刚才都没有搞清楚冲突怎么解决的.外部怎么对比差异的.
+				
+				//天啊.我的天啊
             }
         });
     }
