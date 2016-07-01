@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, s, Toast.LENGTH_SHORT).show();
                 // 听说下雨天,跟冲突更配哦~~
 				// 测试冲突的数据在这里.哈哈哈
+				
+				// 重新测试一次冲突吧.刚才都没有搞清楚冲突怎么解决的.外部怎么对比差异的.
             }
         });
     }
