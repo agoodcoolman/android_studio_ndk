@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this, s, Toast.LENGTH_SHORT).show();
                 // 听说下雨天,跟冲突更配哦~~
 				// 测试冲突的数据在这里.哈哈哈
+
+                // 我知道这样不好.也知道你的爱只能那么少.
             }
         });
     }
