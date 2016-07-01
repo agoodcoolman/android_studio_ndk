@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 String s = JniLoad.what() + "";
                 s = JniLoad.setde(2);
                 Toast.makeText(MainActivity.this, s, Toast.LENGTH_SHORT).show();
+                // 听说下雨天,跟冲突更配哦~~
             }
         });
     }
