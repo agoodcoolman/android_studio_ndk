@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 String s = JniLoad.what() + "";
                 s = JniLoad.setde(2);
                 Toast.makeText(MainActivity.this, s, Toast.LENGTH_SHORT).show();
+				// 测试冲突的数据在这里.哈哈哈
             }
         });
     }
