@@ -7,3 +7,5 @@
 /build
 /captures
 *.bat
+.idea/
+IMKit/build/

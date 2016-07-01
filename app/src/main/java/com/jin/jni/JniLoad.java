@@ -8,4 +8,6 @@ public class JniLoad {
         System.loadLibrary("what");
     }
     public native static int what();
+
+    public native static String setde(int a);
 }

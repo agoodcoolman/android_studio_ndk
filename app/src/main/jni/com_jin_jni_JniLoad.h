@@ -4,6 +4,8 @@
 
 #ifndef _Included_com_jin_jni_JniLoad
 #define _Included_com_jin_jni_JniLoad
+
+
 #ifdef __cplusplus
 extern "C" {
 #endif
@@ -14,7 +16,16 @@ extern "C" {
  */
 JNIEXPORT jint JNICALL Java_com_jin_jni_JniLoad_what
   (JNIEnv *, jclass);
+JNIEXPORT jstring JNICALL Java_com_jin_jni_JniLoad_setde(JNIEnv *env, jclass type, jint a) {
 
+jstring pJstring = env->NewStringUTF("deiei");
+    int b= 0;
+    for (int i = 0; i < a; ++i) {
+        b += b;
+    }
+
+return pJstring;
+}
 #ifdef __cplusplus
 }
 #endif

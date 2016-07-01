@@ -7,42 +7,84 @@ model {
 
         defaultConfig.with {
             applicationId = "com.jin.android.myapplication"
-            minSdkVersion.apiLevel  = 15
-            targetSdkVersion.apiLevel = 23
+            minSdkVersion.apiLevel  = 10
+            targetSdkVersion.apiLevel = 22
             versionCode = 1
             versionName = "1.0"
+        }
+
+        sources {
+            
+            main {
+                jni {
+                    source {
+                        srcDir "src"
+                    }
+                }
+            }
+        }
+
+    }
+    android.buildTypes {
+        release {
+            ndk.debuggable = true
 
         }
 
-
+        debug {
+            debuggable = true
+            ndk.with {
+                debuggable = true
+            }
+        }
     }
     android.buildTypes {
         release {
             minifyEnabled = false
             proguardFiles.add(file('proguard-rules.pro'))
+
         }
     }
+
 
 
     android.ndk {
         moduleName = "what"
-        ldLibs.add("android")
-
-        /*cppFlags.add("-std=c++11")
+        /*toolchain = "clang"
+        cppFlags.add("-std=c++11")
         cppFlags.add("-fexceptions")
         cppFlags.add("-I${file("src/main/jni//include")}".toString())
-
+        ldLibs.add("android") // 这里使用了add添加，把 android /log分开了。  之前使用 ["android", "log"] 这样写报错了。
         ldLibs.add("log")
-        stl = "gnustl_shared"*/
+        stl = "gnustl_shared"
+        cppFlags.addAll(['-Wall'])*/
     }
 
+
     android.productFlavors {
-        create("arm7") {
-            ndk.abiFilters.add("armeabi-v7a")
+
+        create("arm") {
+            ndk.abiFilters.add("armeabi")
         }
+
         create("arm8") {
             ndk.abiFilters.add("arm64-v8a")
         }
+        create("x86") {
+            ndk.abiFilters.add("x86")
+        }
+        create("x86-64") {
+            ndk.abiFilters.add("x86_64")
+        }
+        create("mips") {
+            ndk.abiFilters.add("mips")
+        }
+        create("mips-64") {
+            ndk.abiFilters.add("mips64")
+        }
+        // To include all cpu architectures, leaves abiFilters empty
+        create("all")
+
 
     }
 
@@ -53,3 +95,4 @@ dependencies {
     testCompile 'junit:junit:4.12'
     compile 'com.android.support:appcompat-v7:23.4.0'
 }
+
