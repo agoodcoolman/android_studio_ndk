@@ -9,3 +9,11 @@
 *.bat
 .idea/
 IMKit/build/
+app/src/main/java/com/jin/android/myapplication/MainActivity_BACKUP_13192.java
+app/src/main/java/com/jin/android/myapplication/MainActivity_BACKUP_7772.java
+app/src/main/java/com/jin/android/myapplication/MainActivity_BASE_13192.java
+app/src/main/java/com/jin/android/myapplication/MainActivity_BASE_7772.java
+app/src/main/java/com/jin/android/myapplication/MainActivity_LOCAL_13192.java
+app/src/main/java/com/jin/android/myapplication/MainActivity_LOCAL_7772.java
+app/src/main/java/com/jin/android/myapplication/MainActivity_REMOTE_13192.java
+app/src/main/java/com/jin/android/myapplication/MainActivity_REMOTE_7772.java
