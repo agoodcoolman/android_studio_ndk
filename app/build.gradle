@@ -50,14 +50,14 @@ model {
 
     android.ndk {
         moduleName = "what"
-        /*toolchain = "clang"
+        toolchain = "clang"
         cppFlags.add("-std=c++11")
         cppFlags.add("-fexceptions")
         cppFlags.add("-I${file("src/main/jni//include")}".toString())
         ldLibs.add("android") // 这里使用了add添加，把 android /log分开了。  之前使用 ["android", "log"] 这样写报错了。
         ldLibs.add("log")
         stl = "gnustl_shared"
-        cppFlags.addAll(['-Wall'])*/
+        cppFlags.addAll(['-Wall'])
     }
 
 

@@ -10,4 +10,8 @@ public class JniLoad {
     public native static int what();
 
     public native static String setde(int a);
+
+    public native  void nativeStartTcpServer(int port) throws Exception;
+
+    public native  void nativeStartUdpServer(int port) throws Exception;
 }
