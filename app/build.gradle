@@ -1,4 +1,12 @@
 apply plugin: 'com.android.model.application'
+def ndkDir = System.getenv("ANDROID_NDK");
+def propertiesFile = project.rootProject.file("local.properties")
+if (propertiesFile.exists()) {
+
+    def properties = new Properties()
+    properties.load(propertiesFile.newDataInputStream())
+    ndkDir = properties.getProperty("ndk.dir")
+}
 
 model {
     android {
@@ -18,7 +26,11 @@ model {
             main {
                 jni {
                     source {
-                        srcDir "src"
+                        srcDir  "src"
+                        srcDirs "${ndkDir}/source/transcode/avilib"
+                    }
+                    exportedHeaders {
+                        srcDirs  "${ndkDir}/source/transcode/avilib"
                     }
                 }
             }
@@ -53,11 +65,14 @@ model {
         toolchain = "clang"
         cppFlags.add("-std=c++11")
         cppFlags.add("-fexceptions")
-        cppFlags.add("-I${file("src/main/jni//include")}".toString())
-        ldLibs.add("android") // 这里使用了add添加，把 android /log分开了。  之前使用 ["android", "log"] 这样写报错了。
-        ldLibs.add("log")
+        cppFlags.add("-I${file("src/main/jni/include")}".toString())
+        ldLibs.addAll(["android", "log", "transcode/avilib"])
+         // 这里使用了add添加，把 android /log分开了。  之前使用 ["android", "log"] 这样写报错了。
+        cppFlags.add("-I${file("C:/android/android_ndk/android-ndk-r12/sources/transcode/avilib")}".toString())
+
         stl = "gnustl_shared"
         cppFlags.addAll(['-Wall'])
+
     }
 
 
